@@ -18,4 +18,3 @@ You can describe 10 attributes in detail as:
 * Departments: Employee's working department/division.       
 * Salary: Salary level of the employee such as low, medium and high.           
 * left: Whether the employee has left the company or not.        
-* First of all, to observe the structure of the data, outliers, missing values and features that affect the target variable, you must use exploratory data analysis and data visualization techniques.        
